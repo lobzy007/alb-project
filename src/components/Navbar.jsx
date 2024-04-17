@@ -28,7 +28,7 @@ const Navbar = () => {
       >
         <li>
           <a
-            href="#about"
+            href="/#about"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
@@ -37,7 +37,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#service"
+            href="/#service"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
@@ -46,7 +46,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#faq"
+            href="/#faq"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
@@ -55,7 +55,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#yt-vid"
+            href="/#yt-vid"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
@@ -79,7 +79,7 @@ const Navbar = () => {
       >
         <li>
           <a
-            href="#about"
+            href="/#about"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
@@ -88,7 +88,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#service"
+            href="/#service"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
@@ -97,7 +97,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#faq"
+            href="/#faq"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
@@ -106,7 +106,7 @@ const Navbar = () => {
         </li>
         <li>
           <a
-            href="#yt-vid"
+            href="/#yt-vid"
             className="text-gray-700 hover:text-black transition-all"
             onClick={() => setNav(false)}
           >
