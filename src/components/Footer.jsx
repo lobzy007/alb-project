@@ -1,4 +1,3 @@
-// import "./foot.css";
 import youtube from "../images/youtube.svg";
 import telegram from "../images/telegram.svg";
 import instagram from "../images/instagram.svg";

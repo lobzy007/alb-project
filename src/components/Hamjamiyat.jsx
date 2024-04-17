@@ -6,7 +6,6 @@ const Dedicated = () => {
     <div className="relative overflow-hidden">
       <div className="mx-auto max-w-7xl px-4 my-10 sm:py-20 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 my-16">
-          {/* COLUMN-1 */}
           <div>
             <img
               src={man}
@@ -16,8 +15,6 @@ const Dedicated = () => {
               className="mx-auto md:mx-0 rounded-3xl"
             />
           </div>
-
-          {/* COLUMN-2 */}
           <div className="relative">
             <img
               src={comma}

@@ -9,18 +9,17 @@ import SwiperTeam from "./Carousel";
 import { SwiperSlide } from "swiper/react";
 
 const YoutubeModal = () => {
-  const [showone, setShowone] = useState(false);
-  const [showtwo, setShowtwo] = useState(false);
-  const [showtree, setShowtree] = useState(false);
-  const [showfour, setShowfour] = useState(false);
   const defaultValues = { open: false, link: "" };
   const [modal, setModal] = useState(defaultValues);
+
   const handleOpen = (link) => () => {
     setModal({
       open: true,
       link,
     });
   };
+
+
   return (
     <>
       <div

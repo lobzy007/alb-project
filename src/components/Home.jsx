@@ -1,9 +1,7 @@
 import React from "react";
 import Showcase from "./Showcase";
-import Responsive from "./EG";
 import Haqimizda from "./Haqimizda";
 import Dedicated from "./Hamjamiyat";
-import Weworkslider from "./Team";
 import { Teachers } from "./BigTeam";
 import FAQ from "./FAQ";
 import TeamPhoto from "./TeamPhoto";
@@ -15,7 +13,6 @@ const Home = () => {
   return (
     <div>
       <Showcase />
-      {/* <Responsive /> */}
       <Haqimizda />
       <Dedicated />
       <Teachers />

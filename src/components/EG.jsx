@@ -3,7 +3,6 @@ import "./EG.css";
 const PriceCards = ({ data }) => {
   return (
     <div>
-      {/* @ts-ignore */}
       <div className="custom-slider flex justify-center items-center gap-10 max-lg:flex-wrap">
         {data?.map((sl, index) => (
           <div

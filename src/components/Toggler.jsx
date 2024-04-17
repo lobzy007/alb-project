@@ -128,14 +128,6 @@ const Manage = () => {
         </div>
 
         <div className="mt-6 relative">
-          {/* <div className="dance-text mb-5">get 3 months free</div>
-          <Image
-            src="/images/manage/toggle.svg"
-            alt="toggle-image"
-            width={24}
-            height={24}
-            className="toggleImage"
-          /> */}
           <div className="flex justify-center">
             <h3 className="text-sm font-medium mr-5">Oylik</h3>
             <Switch
