@@ -11,7 +11,7 @@ const Showcase = () => {
           </button>
         </div>
         <div className="py-3 text-center lg:text-start">
-          <h1 className="title text-[80px] lg:text-80xl font-bold text-[#241A24] leading-tight">
+          <h1 className="title text-5xl lg:text-80xl font-bold text-[#241A24] leading-tight">
             Barqaror kelajak- bepul* ta'lim asosida
           </h1>
         </div>
